@@ -29,7 +29,7 @@ In this version the non common rules:
 • Each philosopher a thread.
 
 3) philo_three
-4) 
+
 Description: philosopher with processes and semaphore
 
 In this version the non common rules:
